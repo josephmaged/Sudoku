@@ -1,16 +1,9 @@
-# sudoku
-
-A new Flutter project.
+# Sudoku Game
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a simple sudoku game developed using Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+## Video
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/josephmaged/Sudoku/assets/27308047/b52887a3-71f6-47c2-93db-9ca33ff40bb8
